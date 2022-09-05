@@ -27,10 +27,7 @@ This back-end JavaScript program can be utilized by managers to keep track of cu
 Open the terminal and type 'mysql -u root -p' Once credentials have been inputted, enter 'source db/schema.sql' to create the database. Exit out of MySQL shell.
 <br><br>
 While still in terminal, enter 'npm run seed' to seed database. After database has successfully added seeds, type in 'node server.js' to start the server.
-<br><br>
-GET routes: all categories, all products, all tags<br>
-GET routes: single category, single product, single tag<br>
-POST, PUT, DELETE routes for categories, products, tags<br>
+
 
 
 
@@ -39,4 +36,4 @@ MIT
 
 ## Questions
 Github username: [TEkdahl92](https://github.com/TEkdahl92) <br>
-Email: troypekdahl92@gmail.com
+Email: troypekdahl@gmail.com
